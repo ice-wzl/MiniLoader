@@ -1,7 +1,7 @@
 # MiniLoader
 
 ## Overview
-
+- A lightweight stage 0 elf loader that will load the encoded elf file directly into memory 
 ## Using the builder
 - Specify your input elf (stager/stageless) with `-b`
 - Specify the output file name with `-o`
